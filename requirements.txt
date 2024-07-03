@@ -1,0 +1,6 @@
+PyQt6==6.5.1
+openai-whisper==20230314
+pydub==0.25.1
+numpy==1.24.3
+torch==2.0.1
+torchaudio==2.0.2
