@@ -6,7 +6,6 @@ This is a Mac application that automatically detects curse words in video or aud
 
 - Detects curse words in audio and video files using advanced speech recognition
 - Automatically bleeps out detected curse words with adjustable volume
-- Handles misrecognized words (e.g., "con" for "cunt")
 - Extends bleep duration for specific words for extra safety
 - Preserves original video content for MP4 files, only modifying the audio track
 - Simple graphical user interface for easy use
